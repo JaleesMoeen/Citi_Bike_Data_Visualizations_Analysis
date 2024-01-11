@@ -13,7 +13,7 @@
 
 - In the summer the number of trip are far higher as 10139 as maximun, where the mamximun number of trips in winter are under half of the value.
 
-- The peak hours for the trip during both winte ran dsummer days starting from 4:00 pm to 7 :00 pm.
+- The peak hours for the trip during both winte ran summer days starting from 4:00 pm to 7 :00 pm.
 
 ## Maps Analysis ( Top Bottom 10 stations)
 
