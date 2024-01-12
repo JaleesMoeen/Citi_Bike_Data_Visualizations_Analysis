@@ -72,6 +72,9 @@ The average trip duration for annual customers is 11 minutes, whereas casual mem
 
 Here, we can see demographically the location fro starting and ending the trips are almost in the same region as shown on the location pin points.
 
+It can also be seen that some of the rides that starts in New Jersey and Ends in New York.
+
+
 #### 4.3 Top 10 & Bottom 10 Dashboard
 
 
